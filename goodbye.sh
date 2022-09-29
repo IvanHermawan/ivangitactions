@@ -1,2 +1,2 @@
 #/bin/bash
-echo "Goodbye yo"
+echo "Goodbye yooo"
