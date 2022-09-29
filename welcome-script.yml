@@ -1,0 +1,3 @@
+name: 'Welcome Script'
+description: 'Testing'
+runs: echo "welcome"
